@@ -15,9 +15,7 @@ This template provides a base project with the brand new Phoenix 1.6 release wit
 
   
 
-The main goal of this template is provide the fast build speed of esbuild but bring back the NPM to your Phoenix app, with that you can download and mantain
-
-NPM dependencies without rely all the dependency management to esbuild.
+The main goal of this template is provide the fast build speed of esbuild but bring back the NPM to your Phoenix app, with that you can download and mantain NPM dependencies without rely all the dependency management to esbuild.
 
   
 
